@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sell Media\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sell-media\n"
-"POT-Creation-Date: 2016-05-03 17:44-0400\n"
-"PO-Revision-Date: 2017-03-30 19:38+0200\n"
-"Last-Translator: fxbenard | FxB <fx@fxbenard.com>\n"
+"POT-Creation-Date: 2016-05-03 18:07-0400\n"
+"PO-Revision-Date: 2017-08-24 10:05+0200\n"
+"Last-Translator: fxbenard pour WP-Translations.pro <fx@wp-translations.pro>\n"
 "Language-Team: Thad Allender <support@graphpaperpress.com>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0.3\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: sell-media-access-control/sell-media-access-control.php:98
 msgid "Free Access Control"
-msgstr "Contrôle à l' accès gratuit"
+msgstr "Contrôle à l’accès gratuit"
 
 #: sell-media-access-control/sell-media-access-control.php:100
 #: sell-media-add-bulk/sell-media-add-bulk.php:151
@@ -36,7 +36,7 @@ msgstr "Aucun"
 
 #: sell-media-access-control/sell-media-access-control.php:101
 msgid "Everyone"
-msgstr "Tous."
+msgstr "Tout le monde"
 
 #: sell-media-access-control/sell-media-access-control.php:102
 msgid "Clients with a valid password"
@@ -72,7 +72,7 @@ msgid ""
 msgstr ""
 "Télécharger de nombreux produits simples qui partagent les mêmes "
 "caractéristiques, en une fois. Remarque: le téléchargement en lot est un "
-"processus qui consomme beaucoup de ressources serveur. Donc l' efficacité de "
+"processus qui consomme beaucoup de ressources serveur. Donc l’efficacité de "
 "cette fonction dépend de celle du serveur. Téléchargez des petites quantités "
 "pour vous assurer que tous les éléments soient publiés correctement. Vous "
 "pouvez modifier les prix et licences de chaque photo après le téléchargement"
@@ -130,7 +130,7 @@ msgstr "Impayée"
 
 #: sell-media-commissions/sell-media-commissions.php:54
 msgid "All the unpaid commissions will be changed to paid!"
-msgstr "Toutes les commissions impayées seront modifiées à payé!"
+msgstr "Toutes les commissions impayées seront modifiées à payé !"
 
 #: sell-media-commissions/sell-media-commissions.php:54
 msgid "Download Mass Payment File"
@@ -181,7 +181,7 @@ msgstr "Benénficiaire de la commission"
 #: sell-media-commissions/sell-media-commissions.php:380
 #: sell-media-commissions/sell-media-commissions.php:420
 msgid "Commission rate (%)"
-msgstr "Taux (%) de la Commission"
+msgstr "Taux de commission (%)"
 
 #: sell-media-commissions/sell-media-commissions.php:241
 #: sell-media-commissions/sell-media-commissions.php:381
@@ -193,12 +193,12 @@ msgstr "Le pourcentage du coût total du panier pour la commission."
 #: sell-media/inc/install.php:161 sell-media/inc/install.php:162
 #: sell-media/inc/install.php:165 sell-media/inc/install.php:173
 msgid "Sell Media"
-msgstr "vente de médias"
+msgstr "Sell Media"
 
 #: sell-media-discount-codes/inc/add-discount-code.php:69
 #: sell-media-discount-codes/sell-media-discount-codes.php:97
 msgid "Add New Discount Code"
-msgstr "Ajouter un nouveau code de remise"
+msgstr "Ajouter un nouveau code promo"
 
 #: sell-media-discount-codes/inc/add-discount-code.php:69
 msgid "Go Back"
@@ -213,7 +213,7 @@ msgstr "Nom"
 
 #: sell-media-discount-codes/inc/add-discount-code.php:79
 msgid "The name of this discount code"
-msgstr "Nom de ce code de remise"
+msgstr "Nom de ce code promo"
 
 #: sell-media-discount-codes/inc/add-discount-code.php:84
 msgid "Code"
@@ -247,7 +247,7 @@ msgstr "Montant"
 
 #: sell-media-discount-codes/inc/add-discount-code.php:109
 msgid "The amount of this discount code."
-msgstr "Le montant pour ce code de remise."
+msgstr "Le montant pour ce code promo."
 
 #: sell-media-discount-codes/inc/add-discount-code.php:114
 msgid "Start date"
@@ -258,8 +258,8 @@ msgid ""
 "Enter the start date for this discount code in the format of mm/dd/yyyy. For "
 "no start date, leave blank."
 msgstr ""
-"Saisir la date de début pour ce code de remise au format mm/jj/aaaa. S' il "
-"n' y en n' a pas, laisser vide."
+"Saisir la date de début pour ce code promo au format mm/jj/aaaa. S’il n’y en "
+"n’a pas, laisser vide."
 
 #: sell-media-discount-codes/inc/add-discount-code.php:123
 msgid "Expiration date"
@@ -270,20 +270,20 @@ msgid ""
 "Enter the expiration date for this discount code in the format of mm/dd/"
 "yyyy. For no expiration, leave blank."
 msgstr ""
-"Entrez la date d'expiration pour ce code de remise au format mm/jj/aaaa. S' "
-"il n' y en n' a pas, laissez vide."
+"Entrez la date d’expiration pour ce code promo au format mm/jj/aaaa. S’il "
+"n’y en n’a pas, laissez vide."
 
 #: sell-media-discount-codes/inc/add-discount-code.php:132
 msgid "Max Uses"
-msgstr "Nombre maximum d'utilisations"
+msgstr "Nombre maximum d’utilisations"
 
 #: sell-media-discount-codes/inc/add-discount-code.php:136
 msgid ""
 "The maximum number of times this discount can be used. Leave blank for "
 "unlimited."
 msgstr ""
-"Nombre maximum d'utilisations autorisées pour ce code de remise. Laissez "
-"vide pour un nombre illimité."
+"Nombre maximum d’utilisations autorisées pour ce code promo. Laissez vide "
+"pour un nombre illimité."
 
 #: sell-media-discount-codes/inc/add-discount-code.php:144
 msgid "Update Discount Code"
@@ -297,13 +297,13 @@ msgstr "Effacer"
 
 #: sell-media-discount-codes/inc/add-discount-code.php:147
 msgid "Add Discount Code"
-msgstr "Ajouter un code de remise"
+msgstr "Ajouter un code promo"
 
 #: sell-media-discount-codes/inc/all-discount-code.php:38
 #: sell-media-discount-codes/sell-media-discount-codes.php:95
 #: sell-media-discount-codes/sell-media-discount-codes.php:201
 msgid "Discount Code"
-msgstr "Code de remise"
+msgstr "Code promo"
 
 #: sell-media-discount-codes/inc/all-discount-code.php:39
 #: sell-media-discount-codes/sell-media-discount-codes.php:94
@@ -367,15 +367,15 @@ msgstr "Ajouter un nouveau"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:98
 msgid "Edit Discount Code"
-msgstr "Modifier le code de remise"
+msgstr "Modifier le code promo"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:99
 msgid "New Discount Code"
-msgstr "Nouveau code de remise"
+msgstr "Nouveau code promo"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:100
 msgid "View Discount Code"
-msgstr "Voir le code de remise"
+msgstr "Voir le code promo"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:101
 msgid "Search Discount Codes"
@@ -383,15 +383,15 @@ msgstr "Cherchez les codes de remise"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:102
 msgid "No discount found"
-msgstr "Il n' y a pas de code de remise"
+msgstr "Il n’y a pas de code promo"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:103
 msgid "No discount codes found in Trash"
-msgstr "Aucun code de remise n' a été trouvé dans la poubelle"
+msgstr "Aucun code promo n’a été trouvé dans la corbeille"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:104
 msgid "Parent Discount Code:"
-msgstr "Code de remise parent:"
+msgstr "Code promo parent :"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:206
 msgid "Apply"
@@ -420,11 +420,11 @@ msgstr "Code valide"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:366
 msgid "Discount Code updated successfully!"
-msgstr "Code de remise mis à jour avec succès!"
+msgstr "Code promo mis à jour !"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:368
 msgid "Discount Code added successfully!"
-msgstr "Le code de remise ajouté avec succès!"
+msgstr "Le code promo a été ajouté !"
 
 #: sell-media-discount-codes/sell-media-discount-codes.php:370
 msgid "Discount Code deleted successfully!"
@@ -450,7 +450,7 @@ msgstr "Entrez le mot de passe"
 
 #: sell-media-download-lightbox/sell-media-download-lightbox.php:160
 msgid "Sorry, your nonce did not verify."
-msgstr "Désolé, votre nonce n' a pas été vérifié."
+msgstr "Désolé, votre nonce n’a pas été vérifié."
 
 #: sell-media-download-lightbox/sell-media-download-lightbox.php:167
 msgid "Incorrect password."
@@ -459,7 +459,7 @@ msgstr "Mot de passe non correct"
 #: sell-media-download-lightbox/sell-media-download-lightbox.php:171
 #: sell-media-download-lightbox/sell-media-download-lightbox.php:177
 msgid "No items found on lightbox."
-msgstr "Pas d' article trouvé dans la Lightbox"
+msgstr "Aucun article trouvé dans la Lightbox"
 
 #: sell-media-download-lightbox/sell-media-download-lightbox.php:190
 msgid "Error: Failed to create zip file."
@@ -479,7 +479,7 @@ msgstr "Adresse e-mail :"
 
 #: sell-media-free-downloads/cart.php:61
 msgid "Request could not be processed due to some error."
-msgstr "La requête n' a pas pu être éxécutée à cause d' une erreur."
+msgstr "La requête n’a pas pu être éxécutée à cause d’une erreur."
 
 #: sell-media-free-downloads/cart.php:69
 msgid "Download Now"
@@ -511,7 +511,7 @@ msgstr "Liste de diffusion"
 #: sell-media-mailchimp/sell-media-mailchimp.php:162
 msgid "Choose the list to sign users up to."
 msgstr ""
-"Choisissez la liste de diffusion à laquelle les utilisateurs s' abonneront."
+"Choisissez la liste de diffusion à laquelle les utilisateurs s’abonneront."
 
 #: sell-media-free-downloads/sell-media-free-downloads.php:86
 msgid "Free Downloads - Mailchimp Settings"
@@ -527,7 +527,7 @@ msgid ""
 "Offer as free download in exchange for newsletter signup. All pricing will "
 "be ignored."
 msgstr ""
-"Offre de téléchargement libre en échange de l' inscription à la liste de "
+"Offre de téléchargement libre en échange de l’inscription à la liste de "
 "diffusion. Tous les prix seront ignorées."
 
 #: sell-media-free-downloads/sell-media-free-downloads.php:218
@@ -554,18 +554,18 @@ msgstr "Téléchargements gratuits"
 #: sell-media-free-downloads/sell-media-free-downloads.php:456
 #: sell-media/inc/helpers.php:1102
 msgid "Nice try, but this file is not a free download."
-msgstr "Bien essayé, mais ce fichier n' est pas en téléchargement libre."
+msgstr "Bien essayé, mais ce fichier n’est pas en téléchargement libre."
 
 #: sell-media-free-downloads/sell-media-free-downloads.php:456
 #: sell-media-free-downloads/sell-media-free-downloads.php:461
 #: sell-media/inc/class-downloads.php:91 sell-media/inc/helpers.php:1102
 msgid "Purchase Verification Failed"
-msgstr "Erreur lors de la vérification de l'achat"
+msgstr "Erreur lors de la vérification de l’achat"
 
 #: sell-media-free-downloads/sell-media-free-downloads.php:461
 msgid "Sorry, but the download url you provided is not valid."
 msgstr ""
-"Désolé, mais l' url de téléchargement que vous avez fourni n’est pas valide."
+"Désolé, mais l’url de téléchargement que vous avez fourni n’est pas valide."
 
 #: sell-media-light-gallery/sell-media-light-gallery.php:120
 #: sell-media/inc/template-tags.php:289
@@ -601,7 +601,7 @@ msgstr "ID du fichier"
 #: sell-media-light-gallery/sell-media-light-gallery.php:239
 #: sell-media/inc/template-tags.php:670
 msgid "File Type"
-msgstr "Type du fichier"
+msgstr "Type de fichier"
 
 #: sell-media-light-gallery/sell-media-light-gallery.php:240
 #: sell-media/inc/template-tags.php:671
@@ -623,7 +623,7 @@ msgstr "Étiquettes"
 
 #: sell-media-light-gallery/sell-media-light-gallery.php:274
 msgid "Popup type"
-msgstr "Popup Type"
+msgstr "Type de popup"
 
 #: sell-media-light-gallery/sell-media-light-gallery.php:275
 msgid "Choose the type of popup to view product detail."
@@ -639,7 +639,7 @@ msgstr "Affichage rapide"
 
 #: sell-media-mailchimp/sell-media-mailchimp.php:98
 msgid "Sign up for our newsletter"
-msgstr "S'inscrire a notre Newsletter"
+msgstr "S’inscrire a notre Newsletter"
 
 #: sell-media-mailchimp/sell-media-mailchimp.php:183
 msgid "MailChimp Settings"
@@ -647,7 +647,7 @@ msgstr "Réglages MailChimp"
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:86
 msgid "Manual Purchase"
-msgstr "Achat Manuel"
+msgstr "Achat manuel"
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:88
 msgid ""
@@ -659,7 +659,7 @@ msgstr ""
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:89
 msgid "Your email"
-msgstr "Votre adresse e-mail"
+msgstr "Votre e-mail"
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:90
 msgid "Your name"
@@ -676,11 +676,11 @@ msgstr ""
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:112
 msgid "Please enter your email address."
-msgstr "Veuillez saisir votre adresse e-mail."
+msgstr "Veuillez saisir votre adresse de messagerie."
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:116
 msgid "Please enter your full name."
-msgstr "Veuillez indiquer votre nom complet."
+msgstr "Veuillez saisir votre nom complet."
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:143
 msgid ""
@@ -706,7 +706,7 @@ msgstr "Client"
 #: sell-media/inc/admin-payments.php:75 sell-media/inc/class-payments.php:730
 #: sell-media/inc/settings.php:70
 msgid "Email"
-msgstr "E-Mail"
+msgstr "E-mail "
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:175
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:215
@@ -723,7 +723,7 @@ msgstr "Produit"
 #: sell-media/inc/class-payments.php:605 sell-media/inc/fields.php:45
 #: sell-media/inc/scripts.php:57
 msgid "Size"
-msgstr "Dimension"
+msgstr "Taille"
 
 #: sell-media-manual-purchases/sell-media-manual-purchases.php:296
 #: sell-media/inc/admin-payments.php:135 sell-media/inc/class-payments.php:422
@@ -759,7 +759,7 @@ msgstr "TOTAL"
 
 #: sell-media-model-release/sell-media-model-release.php:98
 msgid "Model release"
-msgstr "Formulaire de renonciation au droit à l'image"
+msgstr "Formulaire de renonciation au droit à l’image"
 
 #: sell-media-model-release/sell-media-model-release.php:99
 msgid "Choose"
@@ -767,7 +767,7 @@ msgstr "Choisir"
 
 #: sell-media-model-release/sell-media-model-release.php:101
 msgid "Remove model release"
-msgstr "Supprimer le formulaire de renonciation au droit à l'image"
+msgstr "Supprimer le formulaire de renonciation au droit à l’image"
 
 #: sell-media-model-release/sell-media-model-release.php:101
 #: sell-media/inc/settings/settings.php:488
@@ -777,7 +777,7 @@ msgstr "Supprimer"
 
 #: sell-media-model-release/sell-media-model-release.php:160
 msgid "Model Release"
-msgstr "Formulaire de renonciation au droit à l'image"
+msgstr "Formulaire de renonciation au droit à l’image"
 
 #: sell-media-model-release/sell-media-model-release.php:160
 #: sell-media/inc/settings.php:213 sell-media/inc/settings.php:334
@@ -841,9 +841,9 @@ msgid ""
 "listed above. If the order contained downloadable products, no further "
 "action is required. Here are the payment details:"
 msgstr ""
-"Si vous avez vendu une impression, n'oubliez pas d'imprimer et d'expédier la "
-"commande à l'adresse indiquée ci-dessus. Si la commande contenait des "
-"produits téléchargeables, aucune action n'est requise. Voici les détails de "
+"Si vous avez vendu une impression, n’oubliez pas d’imprimer et d’expédier la "
+"commande à l’adresse indiquée ci-dessus. Si la commande contenait des "
+"produits téléchargeables, aucune action n’est requise. Voici les détails de "
 "paiement :"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:128
@@ -886,7 +886,7 @@ msgid ""
 msgstr ""
 "Vous avez trois options pour le calcul des frais de livraison : taux fixe, "
 "taux de quantité, taux Total. Utilisez le taux fixe to appliquer un taux de "
-"base comme frais de port pour l' ensemble de la commande. Utilisez \"taux de "
+"base comme frais de port pour l’ensemble de la commande. Utilisez \"taux de "
 "quantité\" pour un frais de port par impression vendue (exemple: 3 "
 "impressions qui coûtent chacune $10 chaque et des frais de port par quantité "
 "de $1 seront facturées au total $33). Utilisez un \"taux total\" si vous "
@@ -894,7 +894,7 @@ msgstr ""
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:226
 msgid "Flat Rate"
-msgstr "Taux Fixe"
+msgstr "Taux fixe"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:230
 msgid "Quantity Rate"
@@ -906,14 +906,14 @@ msgstr "Taux total"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:241
 msgid "Shipping - Flat Rate"
-msgstr "Frais de port - Taux Fixe"
+msgstr "Frais de port - Taux fixe"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:242
 msgid ""
 "The flat rate shipping price applied once to all orders (i.e. 1, 5, 10)."
 msgstr ""
 "Les frais de port fixes seront appliqués une fois pour toutes les commandes "
-"(c'est-à-dire 1, 5, 10)."
+"(c’est-à-dire 1, 5, 10)."
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:253
 msgid "Shipping - Quantity Rate"
@@ -937,7 +937,7 @@ msgid ""
 "percent, .10 for 10 percent, etc)"
 msgstr ""
 "Le pourcentage du coût total du panier comme frais de port (utiliser .05 "
-"pour 5%,.10 pour 10$, etc.)"
+"pour 5 %, .10 pour 10%, etc.)"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:277
 msgid "Unit of Measurement"
@@ -980,11 +980,11 @@ msgstr "Groupe de prix impression"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:472
 msgid "Print Group"
-msgstr "Groupe d' impression"
+msgstr "Groupe d’impression"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:473
 msgid "Search Print Group"
-msgstr "Rechercher le groupe d' impression"
+msgstr "Rechercher le groupe d’impression"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:474
 msgid "Popular Print Group"
@@ -992,52 +992,52 @@ msgstr "Groupe de prix populaires"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:475
 msgid "All Print Group"
-msgstr "Tous les groupes de prix d'impression"
+msgstr "Tous les groupes de prix d’impression"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:476
 msgid "Parent Print Group"
-msgstr "Groupe de prix d' impression parent"
+msgstr "Groupe de prix d’impression parent"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:477
 msgid "Parent Print  Group:"
-msgstr "Groupe de prix d' impression parent:"
+msgstr "Groupe de prix d’impression parent :"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:478
 msgid "Edit Print Group"
-msgstr "Editer Groupe d' impresion"
+msgstr "Editer Groupe d’impresion"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:479
 msgid "Update Print Group"
-msgstr "Editer Groupe d' impresion"
+msgstr "Editer Groupe d’impresion"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:480
 msgid "Add New Print Group"
-msgstr "Ajouter un nouveau groupe d' impression"
+msgstr "Ajouter un nouveau groupe d’impression"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:481
 msgid "New Print Group"
-msgstr "Nouveau groupe d' impression"
+msgstr "Nouveau groupe d’impression"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:482
 msgid "Separate Print Group with commas"
-msgstr "Séparez les groupes d' impression par des virgules"
+msgstr "Séparer les groupes d’impression par des virgules"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:483
 msgid "Add or remove Print Group"
-msgstr "Ajouter ou supprimer un groupe d' impression"
+msgstr "Ajouter ou supprimer un groupe d’impression"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:484
 msgid "Choose from most used Print Group"
-msgstr "Choisir parmi les groupes d' impression les plus utilisés"
+msgstr "Choisir parmi les groupes d’impression les plus utilisés"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:543
 msgid "Add print sizes and prices below."
-msgstr "Ajouter les tailles d'impression et les prix ci-dessous."
+msgstr "Ajouter les tailles d’impression et les prix ci-dessous."
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:557
 msgid "Create a price group, then define specific print sizes and prices."
 msgstr ""
-"Créer un groupe de prix, puis définir des tailles d' impression et des prix "
+"Créer un groupe de prix, puis définir des tailles d’impression et des prix "
 "spécifiques"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:648
@@ -1061,7 +1061,7 @@ msgstr "Limite dépassée."
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:842
 msgid "has limit upto"
-msgstr "a une limite jusqu'à"
+msgstr "a une limite jusqu’à"
 
 #: sell-media-reprints/sell-media-reprints-self-fulfillment.php:850
 msgid "Goto checkout page to fix it."
@@ -1101,11 +1101,11 @@ msgstr "Sélectionnez une taille"
 
 #: sell-media-reprints/template-tags.php:77
 msgid "This item is not currently assigned a price group."
-msgstr "Cet article n'est pas actuellement associé à un groupe de prix"
+msgstr "Cet article n’est pas actuellement associé à un groupe de prix"
 
 #: sell-media-reprints/template-tags.php:132
 msgid "Limited Edition: "
-msgstr "Edition limité:"
+msgstr "Edition limité :"
 
 #: sell-media-reprints/template-tags.php:136
 #, php-format
@@ -1118,23 +1118,23 @@ msgstr "Épuisé."
 
 #: sell-media-s3/sell-media-s3.php:162
 msgid "Amazon S3 Access Key"
-msgstr "clé d'accès Amazon S3  :"
+msgstr "clé d’accès Amazon S3  :"
 
 #: sell-media-s3/sell-media-s3.php:163
 #, php-format
 msgid "Enter your <a href=\"%s\" target=\"_blank\">Amazon S3 Access Key</a>"
 msgstr ""
-"Entrez votre <a href=\"%s\" target=\"_blank\">clef d' accès Amazon S3</a>"
+"Entrez votre <a href=\"%s\" target=\"_blank\">clef d’accès Amazon S3</a>"
 
 #: sell-media-s3/sell-media-s3.php:174
 msgid "Amazon S3 Secret Key"
-msgstr "Clé secrète d' Amazon S3"
+msgstr "Clé secrète d’Amazon S3"
 
 #: sell-media-s3/sell-media-s3.php:175
 #, php-format
 msgid "Enter your <a href=\"%s\" target=\"_blank\">Amazon S3 Secret Key</a>"
 msgstr ""
-"Entrez votre <a href=\"%s\" target=\"_blank\">clef secrète d' Amazon S3</a>"
+"Entrez votre <a href=\"%s\" target=\"_blank\">clef secrète d’Amazon S3</a>"
 
 #: sell-media-s3/sell-media-s3.php:186
 msgid "Amazon S3 Bucket Name"
@@ -1154,7 +1154,7 @@ msgid ""
 "Enter Amazon S3 host. Defaults to s3.amazonaws.com. Don't change this unless "
 "you know what you're doing"
 msgstr ""
-"Entrez l' hôte Amazon S3. Par défaut, s3.amazonaws.com. Ne modifiez pas cela "
+"Entrez l’hôte Amazon S3. Par défaut, s3.amazonaws.com. Ne modifiez pas cela "
 "sauf si vous savez ce que vous faites"
 
 #: sell-media-s3/sell-media-s3.php:212
@@ -1169,7 +1169,7 @@ msgstr ""
 
 #: sell-media-s3/sell-media-s3.php:223
 msgid "Check to show deactivate option."
-msgstr "Cocher pour afficher l' option désactivée."
+msgstr "Cocher pour afficher l’option désactivée."
 
 #: sell-media-s3/sell-media-s3.php:236
 msgid "Deactivate"
@@ -1182,11 +1182,11 @@ msgstr "Amazon S3"
 #: sell-media-s3/sell-media-s3.php:351
 #, php-format
 msgid "Error uploading %s to S3: %s"
-msgstr "Erreur de téléchargement de%s à S3:%s"
+msgstr "Erreur de téléchargement de%s à S3 :%s"
 
 #: sell-media-s3/sell-media-s3.php:541
 msgid "There was an error attempting to access the file system"
-msgstr "Il y avait une erreur en essayant d'accéder au système de fichiers"
+msgstr "Il y avait une erreur en essayant d’accéder au système de fichiers"
 
 #: sell-media-stripe/sell-media-stripe.php:77
 #: sell-media/inc/template-tags.php:623
@@ -1206,7 +1206,7 @@ msgstr "Stripe clé secrète de test"
 #: sell-media-stripe/sell-media-stripe.php:170
 #: sell-media-stripe/sell-media-stripe.php:182
 msgid " "
-msgstr ""
+msgstr " "
 
 #: sell-media-stripe/sell-media-stripe.php:157
 msgid "Stripe Test Publishable Key"
@@ -1238,8 +1238,7 @@ msgstr "Carte de crédit"
 
 #: sell-media-stripe/sell-media-stripe.php:598
 msgid "Stripe not supported, please enable <code>cURL</code>."
-msgstr ""
-"Stripe pas pris en charge, s'il vous plaît autorisez <code>cURL</code> ."
+msgstr "Stripe non pris en charge, veuillez activer <code>cURL</code> ."
 
 #: sell-media-stripe/sell-media-stripe.php:603
 #, php-format
@@ -1247,21 +1246,21 @@ msgid ""
 "Your currency, %s is not supported. Please configure your %s account to use "
 "the correct currency."
 msgstr ""
-"Votre monnaie,%s n' est pas prise en charge. S'il vous plaît configurer "
-"votre %s compte afin d' utiliser la monnaie correcte."
+"Votre monnaie, %s n’est pas prise en charge. S’il vous plaît configurer "
+"votre %s compte afin d’utiliser la monnaie correcte."
 
 #: sell-media-stripe/sell-media-stripe.php:610
 #, php-format
 msgid "Please update your Sell Media %s to contain your Stripe keys"
 msgstr ""
-"S'il vous plaît mettez à jour votre Sell Média %s pour qu' il contienne vos "
+"S’il vous plaît mettez à jour votre Sell Média %s pour qu’il contienne vos "
 "clés Stripe"
 
 #: sell-media-watermark/sell-media-watermark.php:51
 msgid ""
 " requires the Sell Media plugin to work properly. Please activate Sell Media."
 msgstr ""
-"nécessite le plugin Sell Media pour fonctionner correctement. Veuillez "
+"nécessite l’extension Sell Media pour fonctionner correctement. Veuillez "
 "activer Sell Media"
 
 #: sell-media-watermark/sell-media-watermark.php:144
@@ -1293,11 +1292,11 @@ msgstr ""
 
 #: sell-media-watermark/sell-media-watermark.php:172
 msgid "Watermark Opacity"
-msgstr "opacité du filigrane"
+msgstr "Opacité du filigrane"
 
 #: sell-media-watermark/sell-media-watermark.php:173
 msgid "The opacity of your watermark."
-msgstr "L' opacité de votre filigrane"
+msgstr "L’opacité de votre filigrane"
 
 #: sell-media-watermark/sell-media-watermark.php:225
 msgid "Watermark Position"
@@ -1328,7 +1327,7 @@ msgstr ""
 
 #: sell-media/inc/admin-items.php:59
 msgid "Importing Options"
-msgstr "Options d'importation"
+msgstr "Options d’importation"
 
 #: sell-media/inc/admin-items.php:63
 msgid "Importing"
@@ -1342,11 +1341,11 @@ msgid ""
 "folders into the server path listed below. Then, select the folder below to "
 "import into WordPress."
 msgstr ""
-"Importer rapidement des dossiers d'images à l'aide de cette option. Utilisez "
+"Importer rapidement des dossiers d’images à l’aide de cette option. Utilisez "
 "votre FTP ou <a href=\\\"%1$s\\\" target=\\\"_blank\\\">exportez directement "
 "à partir de Lightroom</a> et placez vos nouveaux dossiers dans le chemin "
-"d'accès au serveur ci-dessous. Ensuite, sélectionnez le dossier ci-dessous "
-"pour l'importation dans WordPress."
+"d’accès au serveur ci-dessous. Ensuite, sélectionnez le dossier ci-dessous "
+"pour l’importation dans WordPress."
 
 #: sell-media/inc/admin-items.php:65
 msgid "Server Path"
@@ -1384,7 +1383,7 @@ msgstr ""
 
 #: sell-media/inc/admin-items.php:113
 msgid "The price of each original, high-resolution file."
-msgstr "Le prix de chaque fichier d'origine en haute résolution."
+msgstr "Le prix de chaque fichier d’origine en haute résolution."
 
 #: sell-media/inc/admin-items.php:118
 msgid "Price group for downloads"
@@ -1422,7 +1421,7 @@ msgstr "Mises à jour"
 #: sell-media/inc/admin-menu.php:27 sell-media/inc/admin-system-info.php:12
 #: sell-media/inc/settings/settings.php:631
 msgid "System Info"
-msgstr "Infos syst&egrave;me"
+msgstr "Infos système"
 
 #: sell-media/inc/admin-payments.php:21
 msgid "Purchase Details"
@@ -1430,7 +1429,7 @@ msgstr "Détails de la commande"
 
 #: sell-media/inc/admin-payments.php:28
 msgid "Additional Purchase Details"
-msgstr "Détails d'achat supplémentaire"
+msgstr "Détails d’achat supplémentaire"
 
 #: sell-media/inc/admin-payments.php:42
 msgid "Payment Gateway Details"
@@ -1444,8 +1443,7 @@ msgstr "Total"
 #: sell-media/inc/admin-payments.php:103
 msgid "This is the additional payment data stored with the purchase."
 msgstr ""
-"Ce sont les données de paiement supplémentaires enregistrées avec l&#39;"
-"achat."
+"Ce sont les données de paiement supplémentaires enregistrées avec l’achat."
 
 #: sell-media/inc/admin-payments.php:123
 msgid "ID"
@@ -1471,8 +1469,7 @@ msgstr "Les données qui ont été envoyées de"
 
 #: sell-media/inc/admin-payments.php:176
 msgid " at time of purchase. Use this for debugging, if needed."
-msgstr ""
-" au moment de l&#39;achat. Utilisez-le pour le débogage, si nécessaire."
+msgstr " au moment de l’achat. Utilisez-le pour le débogage, si nécessaire."
 
 #: sell-media/inc/admin-payments.php:197
 msgid "Earnings Report"
@@ -1529,7 +1526,7 @@ msgstr "Créer un groupe de prix"
 
 #: sell-media/inc/admin-price-groups.php:219
 msgid "Are you sure you want to delete the price group:"
-msgstr "Êtes-vous certain(e) de vouloir supprimer ce groupe de prix :"
+msgstr "Confirmez-vous la suppression de ce groupe de prix :"
 
 #: sell-media/inc/admin-price-groups.php:219
 msgid "This will delete the price group and ALL its prices associated with it."
@@ -1548,7 +1545,7 @@ msgstr "Saisissez ici le nom du groupe de prix"
 #: sell-media/inc/admin-price-groups.php:240
 #: sell-media/inc/admin-price-groups.php:292
 msgid "Name (shown to buyer, so be descriptive)"
-msgstr "Nom (affiché à l&#39;acheteur, alors soyez descriptif)"
+msgstr "Nom (affiché à l’acheteur, alors soyez descriptif)"
 
 #: sell-media/inc/admin-price-groups.php:248
 #: sell-media/inc/admin-price-groups.php:297
@@ -1561,7 +1558,7 @@ msgstr "Hauteur max (pixels)"
 
 #: sell-media/inc/admin-price-groups.php:264
 msgid "Are you sure you want to delete the price"
-msgstr "Êtes-vous certain(e) de vouloir supprimer le prix ?"
+msgstr "Confirmez-vous la suppression du prix"
 
 #: sell-media/inc/admin-price-groups.php:301
 msgid "Max height (pixels)"
@@ -1594,13 +1591,13 @@ msgstr "Voir plus"
 #: sell-media/inc/ajax.php:220 sell-media/inc/helpers.php:1410
 #: sell-media/themes/archive.php:130
 msgid "Nothing Found"
-msgstr "Rien n'a été trouvé"
+msgstr "Rien n’a été trouvé"
 
 #: sell-media/inc/ajax.php:221 sell-media/inc/helpers.php:1411
 #: sell-media/themes/archive.php:131
 msgid "Sorry, but we couldn't find anything that matches your search query."
 msgstr ""
-"Désolé, nous n'avons trouvé aucun résultat correspondant à votre critère de "
+"Désolé, nous n’avons trouvé aucun résultat correspondant à votre critère de "
 "recherche."
 
 #: sell-media/inc/class-admin-notices.php:49
@@ -1642,7 +1639,7 @@ msgid ""
 "Important updates are now available for %1$s. <a href=\"%2$s\" target="
 "\"_blank\">Learn more</a>."
 msgstr ""
-"D'importantes mises à jour sont maintenant disponibles pour %1$s. <a href=\\"
+"D’importantes mises à jour sont maintenant disponibles pour %1$s. <a href=\\"
 "\"%2$s\\\" target=\\\"_blank\\\">En savoir plus</a>."
 
 #: sell-media/inc/class-customer.php:72
@@ -1667,7 +1664,7 @@ msgid ""
 "your purchases in the future."
 msgstr ""
 "Créer un mot de passe si vous voulez vous connecter à notre tableau de bord "
-"pour télécharger vos achats à l'avenir."
+"pour télécharger vos achats à l’avenir."
 
 #: sell-media/inc/class-customer.php:78
 msgid "Any purchases your make will be available on your account dashboard."
@@ -1682,11 +1679,11 @@ msgstr "Merci"
 #: sell-media/inc/class-downloads.php:47
 #, php-format
 msgid "The original high resolution file doesn't exist here: %1$s"
-msgstr "Le fichier original en haute résolution n'existe pas ici : %1$s"
+msgstr "Le fichier original en haute résolution n’existe pas ici : %1$s"
 
 #: sell-media/inc/class-downloads.php:91
 msgid "You do not have permission to download this file"
-msgstr "Vous n'avez pas la permission de télécharger ce fichier"
+msgstr "Vous n’avez pas les droits nécessaires pour télécharger ce fichier"
 
 #: sell-media/inc/class-payments.php:229
 msgid "sales totaling"
@@ -1698,7 +1695,7 @@ msgstr "Quantité"
 
 #: sell-media/inc/class-payments.php:726
 msgid "New sale notification"
-msgstr "Notification d'une nouvelle vente"
+msgstr "Notification d’une nouvelle vente"
 
 #: sell-media/inc/class-payments.php:729
 msgid "Address"
@@ -1710,7 +1707,7 @@ msgstr "Originale"
 
 #: sell-media/inc/class-products.php:71
 msgid "The original high resolution source file"
-msgstr "Le fichier source d'origine en haute résolution"
+msgstr "Le fichier source d’origine en haute résolution"
 
 #: sell-media/inc/class-search.php:438 sell-media/inc/helpers.php:1238
 #, php-format
@@ -1741,6 +1738,16 @@ msgstr "Adresse de messagerie de licence"
 #: sell-media/inc/class-updater.php:191 sell-media/inc/class-updater.php:402
 msgid "License Key"
 msgstr "Clé de la licence"
+
+#: sell-media/inc/class-updater.php:429
+msgid ""
+"Please enter your email and license key to enable updates to plugins from "
+"Graph Paper Press."
+msgstr ""
+
+#: sell-media/inc/class-updater.php:431
+msgid "Complete the setup now."
+msgstr ""
 
 #: sell-media/inc/class-updater.php:441
 #, php-format
@@ -1817,17 +1824,17 @@ msgstr "Chercher partout ( ?)"
 
 #: sell-media/inc/helpers.php:1345
 msgid "No keyword found"
-msgstr "Pas de mot clé trouvé"
+msgstr "Aucun mot clé trouvé"
 
 #: sell-media/inc/helpers.php:1346
 msgid "Please enter keyword to search."
-msgstr "Veuillez entrer le mot clé à rechercher"
+msgstr "Veuillez saisir le mot clé à rechercher"
 
 #: sell-media/inc/helpers.php:1435
 msgid "Search for Keywords"
 msgstr "Recherche par Mots-clés"
 
-#: sell-media/inc/install.php:36
+#: sell-media/inc/install.php:36 sell-media/inc/install.php:125
 msgid "Sell Media requires WordPress 4.4 or higher!"
 msgstr "Vends Media requiert WordPress 4.4 ou supérieur !"
 
@@ -1857,7 +1864,7 @@ msgstr "Aucun produit trouvé"
 
 #: sell-media/inc/install.php:171
 msgid "No products found in Trash"
-msgstr "Aucun produit trouvé dans la Corbeille"
+msgstr "Aucun produit trouvé dans la corbeille"
 
 #: sell-media/inc/install.php:172
 msgid "Parent Product:"
@@ -1874,7 +1881,7 @@ msgstr "Paiement"
 
 #: sell-media/inc/install.php:207
 msgid "Add New Payment"
-msgstr "Ajouter un paiement"
+msgstr "Ajouter un nouveau paiement"
 
 #: sell-media/inc/install.php:208
 msgid "Edit Payment"
@@ -1898,7 +1905,7 @@ msgstr "Aucun paiement trouvé"
 
 #: sell-media/inc/install.php:213
 msgid "No payments found in Trash"
-msgstr "Aucun paiement trouvé dans la Corbeille"
+msgstr "Aucun paiement trouvé dans la corbeille"
 
 #: sell-media/inc/install.php:214
 msgid "Parent Payment:"
@@ -2043,7 +2050,7 @@ msgstr "Ajouter une nouvelle licence"
 
 #: sell-media/inc/install.php:353
 msgid "New License"
-msgstr "Ajouter une licence"
+msgstr "Nouvelle licence"
 
 #: sell-media/inc/install.php:354
 msgid "Separate licenses with commas"
@@ -2087,17 +2094,17 @@ msgstr "Étiquette parente :"
 #: sell-media/inc/install.php:385 sell-media/inc/install.php:454
 #: sell-media/inc/install.php:488
 msgid "Edit Keyword"
-msgstr "Modifier l'étiquette"
+msgstr "Modifier l’étiquette"
 
 #: sell-media/inc/install.php:386 sell-media/inc/install.php:455
 #: sell-media/inc/install.php:489
 msgid "Update Keyword"
-msgstr "Mettre à jour l'étiquette"
+msgstr "Mettre à jour l’étiquette"
 
 #: sell-media/inc/install.php:387 sell-media/inc/install.php:456
 #: sell-media/inc/install.php:490
 msgid "Add New Keyword"
-msgstr "Ajouter une nouvelle étiquette"
+msgstr "Ajouter un nouveau mot-clé"
 
 #: sell-media/inc/install.php:388 sell-media/inc/install.php:457
 #: sell-media/inc/install.php:491
@@ -2186,7 +2193,7 @@ msgstr "Ville populaire"
 
 #: sell-media/inc/install.php:451
 msgid "All City"
-msgstr "Toute les villes"
+msgstr "Toutes les villes"
 
 #: sell-media/inc/install.php:458
 msgid "Separate city with commas"
@@ -2202,7 +2209,7 @@ msgstr "Choisir parmi les villes les plus utilisées"
 
 #: sell-media/inc/install.php:481 sell-media/inc/install.php:495
 msgid "State"
-msgstr "&Eacute;tat"
+msgstr "État "
 
 #: sell-media/inc/install.php:483
 msgid "Search State"
@@ -2214,7 +2221,7 @@ msgstr "État populaire"
 
 #: sell-media/inc/install.php:485
 msgid "All State"
-msgstr "Tous les États"
+msgstr "Tous les états"
 
 #: sell-media/inc/install.php:492
 msgid "Separate state with commas"
@@ -2284,7 +2291,7 @@ msgstr "Veuillez patienter..."
 
 #: sell-media/inc/scripts.php:70
 msgid "Remove from Lightbox"
-msgstr "Supprimer de la la lightbox"
+msgstr "Supprimer de la lightbox"
 
 #: sell-media/inc/settings.php:25 sell-media/inc/settings.php:29
 msgid "General"
@@ -2332,8 +2339,8 @@ msgid ""
 "Select the page that contains the checkout shortcode "
 "<code>[sell_media_checkout]</code>"
 msgstr ""
-"Sélectionnez la page qui contient le code court de "
-"commande<code>[sell_media_checkout]</code>"
+"Sélectionnez la page qui contient le code court de commande "
+"<code>[sell_media_checkout]</code>"
 
 #: sell-media/inc/settings.php:139
 msgid "Thanks Page"
@@ -2344,8 +2351,8 @@ msgid ""
 "Select the page that contains the thanks shortcode "
 "<code>[sell_media_thanks]</code>"
 msgstr ""
-"Sélectionnez la page qui contient le code court de "
-"remerciements<code>[sell_media_thanks]</code>"
+"Sélectionnez la page qui contient le code court de remerciements "
+"<code>[sell_media_thanks]</code>"
 
 #: sell-media/inc/settings.php:151
 msgid "Dashboard Page"
@@ -2356,7 +2363,7 @@ msgid ""
 "Select the page that contains the dashboard "
 "shortcode<code>[sell_media_download_list]</code>"
 msgstr ""
-"Sélectionnez la page qui contient le code court du tableau de bord "
+"Sélectionnez la page qui contient le code court du tableau de bord  "
 "<code>[sell_media_download_list]</code>"
 
 #: sell-media/inc/settings.php:163
@@ -2368,7 +2375,7 @@ msgid ""
 "Select the page that contains the login shortcode "
 "<code>[sell_media_login_form]</code>"
 msgstr ""
-"Sélectionnez la page qui contient le code court de connexion "
+"Sélectionnez la page qui contient le code court de connexion  "
 "<code>[sell_media_login_form]</code>"
 
 #: sell-media/inc/settings.php:175
@@ -2380,8 +2387,8 @@ msgid ""
 "Select the page that contains the search shortcode "
 "<code>[sell_media_searchform]</code>"
 msgstr ""
-"Sélectionnez la page qui contient le code court de "
-"recherche<code>[sell_media_searchform]</code>"
+"Sélectionnez la page qui contient le code court de recherche "
+"<code>[sell_media_searchform]</code>"
 
 #: sell-media/inc/settings.php:187
 msgid "Lightbox Page"
@@ -2392,8 +2399,8 @@ msgid ""
 "Select the page that contains the lightbox shortcode "
 "<code>[sell_media_lightbox]</code>"
 msgstr ""
-"Sélectionnez la page qui contient le code court de la "
-"lightbox<code>[sell_media_lightbox]</code>"
+"Sélectionnez la page qui contient le code court de la lightbox "
+"<code>[sell_media_lightbox]</code>"
 
 #: sell-media/inc/settings.php:199
 msgid "Customer Notification"
@@ -2401,7 +2408,7 @@ msgstr "Notification au client"
 
 #: sell-media/inc/settings.php:200
 msgid "Notify the customer of their site registration."
-msgstr "Avertir le client de l'enregistrement de leur site."
+msgstr "Avertir le client de l’enregistrement de leur site."
 
 #: sell-media/inc/settings.php:209 sell-media/inc/settings.php:330
 #: sell-media/inc/settings.php:351 sell-media/inc/settings.php:372
@@ -2487,7 +2494,7 @@ msgstr ""
 
 #: sell-media/inc/settings.php:293
 msgid "One Column"
-msgstr "Une Colonne"
+msgstr "Une colonne"
 
 #: sell-media/inc/settings.php:297
 msgid "Two Columns"
@@ -2511,11 +2518,11 @@ msgstr "Mise en page Masonry"
 
 #: sell-media/inc/settings.php:320
 msgid "Breadcrumbs"
-msgstr "Fils d'Ariane"
+msgstr "Fil d’Ariane"
 
 #: sell-media/inc/settings.php:321
 msgid "Show breadcrumb navigation on single entries."
-msgstr "Afficher la navigation par fil d'Ariane sur les pages de produit"
+msgstr "Afficher la navigation par fil d’Ariane sur les pages de produit"
 
 #: sell-media/inc/settings.php:341
 msgid "File Info"
@@ -2531,25 +2538,25 @@ msgstr ""
 
 #: sell-media/inc/settings.php:362
 msgid "Plugin Credit"
-msgstr "Crédit de l'extension"
+msgstr "Crédit de l’extension"
 
 #: sell-media/inc/settings.php:363
 msgid "Let your site visitors know you are using the Sell Media plugin?"
 msgstr ""
-"Informez les visiteurs de votre site que vous utilisez l'extention Sell "
+"Informez les visiteurs de votre site que vous utilisez l’extention Sell "
 "Media ?"
 
 #: sell-media/inc/settings.php:383
 msgid "Post Type Slug"
-msgstr "Identifiant du type d'article"
+msgstr "Identifiant du type d’article"
 
 #: sell-media/inc/settings.php:384
 msgid ""
 "You can change the post type slug to: &quot;photos&quot; or &quot;"
 "downloads&quot;. The default slug is &quot;items&quot;."
 msgstr ""
-"Vous pouvez modifier l'identifiant du type d'article en : « photos » ou « "
-"téléchargements ». L'identifiant par défaut est « items »."
+"Vous pouvez modifier l’identifiant du type d’article en : « photos » ou « "
+"téléchargements ». L’identifiant par défaut est « items »."
 
 #: sell-media/inc/settings.php:395
 msgid "Order By"
@@ -2557,7 +2564,7 @@ msgstr "Trier par"
 
 #: sell-media/inc/settings.php:396
 msgid "Choose the order of items for the archive pages."
-msgstr "Choisissez l'ordre des éléments pour les pages d'archives."
+msgstr "Choisissez l’ordre des éléments pour les pages d’archives."
 
 #: sell-media/inc/settings.php:424
 msgid "Terms and Conditions"
@@ -2568,7 +2575,7 @@ msgid ""
 "These &quot;Terms and Conditions&quot; will show up on the checkout page. "
 "Users must agree to these terms before completing their purchase."
 msgstr ""
-"Ces « conditions de vente et d'utilisation » seront affichées sur la page de "
+"Ces « conditions de vente et d’utilisation » seront affichées sur la page de "
 "commande. Les utilisateurs doivent les accepter avant de pouvoir effectuer "
 "leur achat."
 
@@ -2580,7 +2587,7 @@ msgstr "Afficher les colonnes"
 msgid ""
 "Select the columns to show on the admin page &quot;All Products&quot; page."
 msgstr ""
-"Sélectionnez les colonnes à afficher sur la page d'administration de « Tous "
+"Sélectionnez les colonnes à afficher sur la page d’administration de « Tous "
 "les produits »."
 
 #: sell-media/inc/settings.php:467
@@ -2609,25 +2616,25 @@ msgid ""
 msgstr ""
 "Sélectionnez « Oui » pour masquer le prix initial ci-dessus et utiliser "
 "uniquement les groupes de prix (Voir ci-dessous. Les groupes de prix ne "
-"peuvent uniquement servir pour la vente d'images). Sélectionnez « Non » si "
+"peuvent uniquement servir pour la vente d’images). Sélectionnez « Non » si "
 "vous vendez un fichier unique ou si vous souhaitez lister le prix initial de "
 "chaque produit. Vous pouvez modifier ce paramètre sur chaque élément."
 
 #: sell-media/inc/settings.php:500
 msgid "Default Image Price Group"
-msgstr "Groupe de prix de l'image par défaut"
+msgstr "Groupe de prix de l’image par défaut"
 
 #: sell-media/inc/settings.php:511
 msgid "Image Price Groups"
-msgstr "Groupes de prix d'image"
+msgstr "Groupes de prix d’image"
 
 #: sell-media/inc/settings.php:524
 msgid "PayPal Email Address"
-msgstr "Adresse e-mail Paypal"
+msgstr "Adresse e-mail PayPal"
 
 #: sell-media/inc/settings.php:525
 msgid "Add the email address associated with your PayPal account above."
-msgstr "Ajoutez l'adresse e-mail associée à votre compte PayPal ci-dessus."
+msgstr "Ajoutez l’adresse e-mail associée à votre compte PayPal ci-dessus."
 
 #: sell-media/inc/settings.php:537
 msgid "Currency"
@@ -2648,8 +2655,8 @@ msgid ""
 "will be sent to the recipients in the above list."
 msgstr ""
 "Ceci est utile lors du débogage de PayPal. Saisissez une liste séparée par "
-"des virgules d'emails, et lorsqu'un achat est effectué le même message que "
-"celui envoyé à l'acheteur est envoyé aux destinataires dans la liste ci-"
+"des virgules d’emails, et lorsqu’un achat est effectué le même message que "
+"celui envoyé à l’acheteur est envoyé aux destinataires dans la liste ci-"
 "dessus."
 
 #: sell-media/inc/settings.php:561 sell-media/inc/shortcodes.php:254
@@ -2683,7 +2690,7 @@ msgstr "Exclusif - ajouté au panier"
 
 #: sell-media/inc/settings.php:592
 msgid "Inclusive - Added to item prices"
-msgstr "Inclue - ajoutée au prix de l' article"
+msgstr "Inclue - ajoutée au prix de l’article"
 
 #: sell-media/inc/settings.php:599
 msgid "Tax Rate"
@@ -2691,7 +2698,7 @@ msgstr "Taux de TVA"
 
 #: sell-media/inc/settings.php:613
 msgid "From Name"
-msgstr "Nom de l'expéditeur"
+msgstr "Nom de l’expéditeur"
 
 #: sell-media/inc/settings.php:614
 msgid "The name associated with all outgoing email."
@@ -2699,19 +2706,19 @@ msgstr "Le nom associé à tous les e-mails sortants."
 
 #: sell-media/inc/settings.php:625
 msgid "From Email"
-msgstr "E-mail de l'expéditeur"
+msgstr "E-mail de l’expéditeur"
 
 #: sell-media/inc/settings.php:626
 msgid "The email address used for all outgoing email."
-msgstr "L'adresse e-mail utilisée pour tous les e-mails sortants."
+msgstr "L’adresse e-mail utilisée pour tous les e-mails sortants."
 
 #: sell-media/inc/settings.php:637
 msgid "Email Subject"
-msgstr "Sujet de l'e-mail"
+msgstr "Sujet de l’e-mail"
 
 #: sell-media/inc/settings.php:638
 msgid "The email subject on successful purchase emails."
-msgstr "Le sujet de l'e-mail pour un achat réussi."
+msgstr "Le sujet de l’e-mail pour un achat réussi."
 
 #: sell-media/inc/settings.php:644
 msgid "Your Purchase"
@@ -2733,8 +2740,8 @@ msgstr ""
 "Ce message est envoyé à vos clients lorsque le paiement est réussi et "
 "terminé. Vous pouvez utiliser les balises suivantes : {first_name}, "
 "{last_name}, {payer_email}, {download_links}, {payment_id}. Ces balises sont "
-"remplacées par les données réelles associées à chaque paiement. N'oubliez "
-"pas d'inclure la balise {download_links}, sinon vos acheteurs ne pourront "
+"remplacées par les données réelles associées à chaque paiement. N’oubliez "
+"pas d’inclure la balise {download_links}, sinon vos acheteurs ne pourront "
 "pas recevoir les téléchargements de leurs achats. La balise {payment_id} "
 "peut aussi être utilisée pour afficher un numéro de facture."
 
@@ -2765,7 +2772,7 @@ msgstr "Livre Sterling (&pound;)"
 
 #: sell-media/inc/settings/library/helpers.php:148
 msgid "Australian Dollars (&#36;)"
-msgstr "Dollar Australien (&#36;)"
+msgstr "Dollar australien (&#36;)"
 
 #: sell-media/inc/settings/library/helpers.php:153
 msgid "Brazilian Real (R&#36;)"
@@ -2785,7 +2792,7 @@ msgstr "Couronne danoise"
 
 #: sell-media/inc/settings/library/helpers.php:173
 msgid "Hong Kong Dollar (&#36;)"
-msgstr "Dollar de Hong Kong (&#36;)"
+msgstr "Dollars hongkongais"
 
 #: sell-media/inc/settings/library/helpers.php:178
 msgid "Hungarian Forint"
@@ -2809,7 +2816,7 @@ msgstr "Peso mexicain (&#36;)"
 
 #: sell-media/inc/settings/library/helpers.php:203
 msgid "New Zealand Dollar (&#36;)"
-msgstr "Dollar Nouvelle Zélande (&#36;)"
+msgstr "Dollar néo-zélandais (&#36;)"
 
 #: sell-media/inc/settings/library/helpers.php:208
 msgid "Norwegian Krone"
@@ -2825,7 +2832,7 @@ msgstr "Zloty polonais"
 
 #: sell-media/inc/settings/library/helpers.php:223
 msgid "Singapore Dollar (&#36;)"
-msgstr "Dollar de Singapour (&#36;)"
+msgstr "Dollar singapourien (&#36;)"
 
 #: sell-media/inc/settings/library/helpers.php:228
 msgid "Swedish Krona"
@@ -2837,7 +2844,7 @@ msgstr "Franc suisse"
 
 #: sell-media/inc/settings/library/helpers.php:238
 msgid "Taiwan New Dollars"
-msgstr "Nouveau dollar de Taiwan"
+msgstr "Nouveaux dollars taïwanais"
 
 #: sell-media/inc/settings/library/helpers.php:243
 msgid "Thai Baht"
@@ -2875,7 +2882,7 @@ msgid ""
 "This option has no valid options. Please create valid options as an array "
 "inside the settings."
 msgstr ""
-"Cette option n'a aucune option valide. Veuillez créer des options valides "
+"Cette option n’a aucune option valide. Veuillez créer des options valides "
 "sous forme de tableau dans les paramètres."
 
 #: sell-media/inc/settings/settings.php:487 sell-media/inc/term-meta.php:370
@@ -2884,7 +2891,7 @@ msgstr "Mettre en ligne ou sélectionner une image"
 
 #: sell-media/inc/settings/settings.php:582
 msgid "Upload or Select Images"
-msgstr "Téléchargez ou sélectionnez des images"
+msgstr "Télécharger ou sélectionner des images"
 
 #: sell-media/inc/settings/settings.php:629
 msgid "Version: "
@@ -2904,7 +2911,7 @@ msgid ""
 "and much more with extensions for Sell Media."
 msgstr ""
 "Vendre des tirages, créer des codes de réduction, filigrane sur les images, "
-"accepte les cartes de crédit et bien plus encore avec l' extension Sell "
+"accepte les cartes de crédit et bien plus encore avec l’extension Sell "
 "Media.."
 
 #: sell-media/inc/settings/settings.php:648
@@ -2914,13 +2921,13 @@ msgstr "Commander maintenant"
 
 #: sell-media/inc/settings/settings.php:652
 msgid "Need Help?"
-msgstr "Besoin d'aide&nbsp;?"
+msgstr "Besoin d’aide ?"
 
 #: sell-media/inc/settings/settings.php:654
 msgid ""
 "Having trouble setting up Sell Media? Hire one of our affiliated developers."
 msgstr ""
-"Vous avez du mal configurer Sell Media? Embauchez un de nos développeurs "
+"Vous avez du mal configurer Sell Media ? Embauchez un de nos développeurs "
 "affiliées."
 
 #: sell-media/inc/settings/settings.php:659
@@ -2937,7 +2944,7 @@ msgid ""
 "A young product with massive potential! You can expect great support from "
 "Graph Paper Press."
 msgstr ""
-"Un jeune produit avec un potentiel énorme. Vous pouvez comptez sur le "
+"Un jeune produit avec un potentiel énorme ! Vous pouvez comptez sur le "
 "support de Graph Paper Press."
 
 #: sell-media/inc/settings/settings.php:667
@@ -2958,7 +2965,7 @@ msgid ""
 msgstr ""
 "Nous avez reçu votre paiement et sommes en train de traiter votre commande. "
 "<a href=\"\" class=\"reload\">Rafraîchissez cette page</a> pour vérifier "
-"l'état de votre commande. Si vous continuez à voir ce message, veuillez nous "
+"l’état de votre commande. Si vous continuez à voir ce message, veuillez nous "
 "contacter."
 
 #: sell-media/inc/shortcodes.php:258
@@ -2997,7 +3004,7 @@ msgstr "Historique de vos achats"
 
 #: sell-media/inc/shortcodes.php:329
 msgid "Purchase ID"
-msgstr "ID de l'achat"
+msgstr "ID de l’achat"
 
 #: sell-media/inc/shortcodes.php:356
 msgid "Description"
@@ -3071,11 +3078,11 @@ msgstr "Les plus populaires"
 
 #: sell-media/inc/shortcodes.php:669 sell-media/inc/shortcodes.php:705
 msgid "Prev"
-msgstr "Prècédents"
+msgstr "Précédent "
 
 #: sell-media/inc/shortcodes.php:670 sell-media/inc/shortcodes.php:706
 msgid "Next"
-msgstr "Suivants"
+msgstr "Suivant"
 
 #: sell-media/inc/template-tags.php:36
 msgid "Add to cart"
@@ -3136,8 +3143,8 @@ msgid ""
 "Commercial) and \"Website\" (a child of Personal). You can create as many "
 "parent and child licenses as you want."
 msgstr ""
-"Quand un acheteur décide d'acheter un élément de votre site, il doit choisir "
-"une licence qui correspond à l'usage qu'il veut en faire. Nous avons inclus "
+"Quand un acheteur décide d’acheter un élément de votre site, il doit choisir "
+"une licence qui correspond à l’usage qu’il veut en faire. Nous avons inclus "
 "quelques types de licences par défaut, regroupés en deux catégories « "
 "parentes »: personnelle et commerciale. Chacune de ces deux catégories ont "
 "des licences spécifiques « enfant », comme \"Publicité Print\" (une enfant "
@@ -3153,12 +3160,12 @@ msgid ""
 "Increase the price of a item if a buyer selects this license by dragging the "
 "slider above."
 msgstr ""
-"Augmenter le prix d'un article si un acheteur sélectionne cette licence en "
+"Augmenter le prix d’un article si un acheteur sélectionne cette licence en "
 "faisant glisser le curseur ci-dessus."
 
 #: sell-media/inc/term-meta.php:215
 msgid "you have not set a default price"
-msgstr "Vous n'avez pas défini de prix par défaut"
+msgstr "Vous n’avez pas défini de prix par défaut"
 
 #: sell-media/inc/term-meta.php:219
 #, php-format
@@ -3186,8 +3193,8 @@ msgid ""
 "The icon is not prominent by default; however, some themes may show it. If "
 "no icon is used the featured image to the most recent post will be displayed"
 msgstr ""
-"L'icône n'est pas visible par défaut. Cependant, certains thèmes peuvent "
-"l'afficher. Si aucune icône n'est utilisée l'image à la Une de l'article le "
+"L’icône n’est pas visible par défaut. Cependant, certains thèmes peuvent "
+"l’afficher. Si aucune icône n’est utilisée l’image à la Une de l’article le "
 "plus récent sera affichée."
 
 #: sell-media/inc/term-meta.php:411
@@ -3223,7 +3230,7 @@ msgid ""
 "Displays image exif data (shutter speed, aperture, ISO, etc). Only use this "
 "on Single Sidebar Widgetized areas."
 msgstr ""
-"Affiche les données exif de l'image exif (vitesse d'obturation, ouverture, "
+"Affiche les données exif de l’image exif (vitesse d’obturation, ouverture, "
 "ISO, etc..). Utilisez cela  uniquement dans les zones de widget de colonne "
 "latérale."
 
@@ -3241,7 +3248,7 @@ msgstr "Longueur focale "
 
 #: sell-media/inc/widgets/sell-media-exif.php:46
 msgid "Shutter Speed "
-msgstr "Vitesse d'obturation"
+msgstr "Vitesse d’obturation"
 
 #: sell-media/inc/widgets/sell-media-exif.php:64
 msgid "ISO "
@@ -3258,7 +3265,7 @@ msgstr "Date"
 #: sell-media/inc/widgets/sell-media-exif.php:78
 #: sell-media/inc/widgets/sell-media-exif.php:80
 msgid "Copyright "
-msgstr "Droit d'auteur"
+msgstr "Droit d’auteur"
 
 #: sell-media/inc/widgets/sell-media-exif.php:80
 msgid "by "
@@ -3266,7 +3273,7 @@ msgstr "par "
 
 #: sell-media/inc/widgets/sell-media-exif.php:104
 msgid "Camera Info"
-msgstr "Info sur l'appareil"
+msgstr "Info sur l’appareil"
 
 #: sell-media/inc/widgets/sell-media-featured.php:93
 msgid " Select Collection"
@@ -3286,7 +3293,7 @@ msgstr "Titre :"
 
 #: sell-media/sell-media.php:147 sell-media/sell-media.php:159
 msgid "Cheatin&#8217; huh?"
-msgstr "Alors on essaye de tricher&nbsp;?"
+msgstr "Une mauvaise manipulation ?"
 
 #: sell-media/themes/archive.php:26
 #, php-format
